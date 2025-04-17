@@ -74,7 +74,7 @@ This repository contains multiple Python projects, ranging from basic scripting 
 To run any project, follow these steps:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/subhankaladi/GIAIC_PythonProjects_Assignment-4.git
+   git clone https://github.com/AreeshaNadeem973/GIAIC_PythonProjects_Assignment-4.git
    ```
 2. Navigate to the project directory:
    ```bash
